@@ -15,3 +15,9 @@ main {
     box-sizing: border-box;
     padding: 20px;
 }
+nav ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    padding: 0;
+  }
